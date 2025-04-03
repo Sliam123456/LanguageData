@@ -1,0 +1,35 @@
+name: Update Data
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 0 * * *"
+jobs:
+  update-data:
+    name: Update Data
+    runs-on: windows-latest
+    timeout-minutes: 3
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 22
+        check-latest: true
+    - name: Download Data
+      run: node . ${{ secrets.PAT }}
+    - name: Commit Changes
+      run: |
+          git config --global user.name 'SliamBot'
+          git config --global user.email 'SliamBot@users.noreply.github.com'
+          git commit -am "Automated daily update"
+          git push
+      continue-on-error: true
+    - name: Trigger Workflows
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.PAT }}
+        script: |
+          const script = require("./workflow.cjs");
+          await script(github);
