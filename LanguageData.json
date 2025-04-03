@@ -1,0 +1,240 @@
+[
+    [
+        "C#",
+        {
+            "size": 547024,
+            "color": "#178600"
+        }
+    ],
+    [
+        "JavaScript",
+        {
+            "size": 152886,
+            "color": "#f1e05a"
+        }
+    ],
+    [
+        "HTML",
+        {
+            "size": 121286,
+            "color": "#e34c26"
+        }
+    ],
+    [
+        "Visual Basic .NET",
+        {
+            "size": 93232,
+            "color": "#945db7"
+        }
+    ],
+    [
+        "CSS",
+        {
+            "size": 49177,
+            "color": "#663399"
+        }
+    ],
+    [
+        "JSON",
+        {
+            "size": 45624,
+            "color": "#292929"
+        }
+    ],
+    [
+        "Processing",
+        {
+            "size": 32733,
+            "color": "#0096D8"
+        }
+    ],
+    [
+        "XML",
+        {
+            "size": 32184,
+            "color": "#0060ac"
+        }
+    ],
+    [
+        "Dart",
+        {
+            "size": 29647,
+            "color": "#00B4AB"
+        }
+    ],
+    [
+        "GDScript",
+        {
+            "size": 14419,
+            "color": "#355570"
+        }
+    ],
+    [
+        "Python",
+        {
+            "size": 6362,
+            "color": "#3572A5"
+        }
+    ],
+    [
+        "TypeScript",
+        {
+            "size": 4047,
+            "color": "#3178c6"
+        }
+    ],
+    [
+        "PLpgSQL",
+        {
+            "size": 3884,
+            "color": "#336790"
+        }
+    ],
+    [
+        "YAML",
+        {
+            "size": 3777,
+            "color": "#cb171e"
+        }
+    ],
+    [
+        "Java",
+        {
+            "size": 3075,
+            "color": "#b07219"
+        }
+    ],
+    [
+        "PowerShell",
+        {
+            "size": 2715,
+            "color": "#012456"
+        }
+    ],
+    [
+        "SVG",
+        {
+            "size": 1750,
+            "color": "#ff9900"
+        }
+    ],
+    [
+        "Q#",
+        {
+            "size": 1564,
+            "color": "#fed659"
+        }
+    ],
+    [
+        "TSQL",
+        {
+            "size": 1246,
+            "color": "#e38c00"
+        }
+    ],
+    [
+        "Batchfile",
+        {
+            "size": 855,
+            "color": "#C1F12E"
+        }
+    ],
+    [
+        "Haskell",
+        {
+            "size": 842,
+            "color": "#5e5086"
+        }
+    ],
+    [
+        "Rust",
+        {
+            "size": 821,
+            "color": "#dea584"
+        }
+    ],
+    [
+        "Kotlin",
+        {
+            "size": 723,
+            "color": "#A97BFF"
+        }
+    ],
+    [
+        "C++",
+        {
+            "size": 696,
+            "color": "#f34b7d"
+        }
+    ],
+    [
+        "C",
+        {
+            "size": 672,
+            "color": "#555555"
+        }
+    ],
+    [
+        "Go",
+        {
+            "size": 665,
+            "color": "#00ADD8"
+        }
+    ],
+    [
+        "F#",
+        {
+            "size": 614,
+            "color": "#b845fc"
+        }
+    ],
+    [
+        "Markdown",
+        {
+            "size": 607,
+            "color": "#083fa1"
+        }
+    ],
+    [
+        "TeX",
+        {
+            "size": 606,
+            "color": "#3D6117"
+        }
+    ],
+    [
+        "Lua",
+        {
+            "size": 494,
+            "color": "#000080"
+        }
+    ],
+    [
+        "Julia",
+        {
+            "size": 445,
+            "color": "#a270ba"
+        }
+    ],
+    [
+        "Ruby",
+        {
+            "size": 440,
+            "color": "#701516"
+        }
+    ],
+    [
+        "GraphQL",
+        {
+            "size": 299,
+            "color": "#e10098"
+        }
+    ],
+    [
+        "Regular Expression",
+        {
+            "size": 11,
+            "color": "#009a00"
+        }
+    ]
+]
