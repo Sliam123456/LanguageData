@@ -1,0 +1,17 @@
+{
+  user(login: "Sliam123456") {
+    repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
+      nodes {
+        languages(first: 100) {
+          edges {
+            size
+            node {
+              color
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+}

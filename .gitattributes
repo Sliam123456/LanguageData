@@ -1,0 +1,4 @@
+* text=auto
+*.yml linguist-detectable=true
+*.yml linguist-vendored=false
+*.gql linguist-detectable=true

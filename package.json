@@ -1,0 +1,5 @@
+{
+  "name": "languagedata",
+  "type": "module",
+  "main": "index.mjs"
+}
