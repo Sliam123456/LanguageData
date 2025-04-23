@@ -2,14 +2,14 @@
     [
         "C#",
         {
-            "size": 406647,
+            "size": 411568,
             "color": "#178600"
         }
     ],
     [
         "JavaScript",
         {
-            "size": 168663,
+            "size": 168782,
             "color": "#f1e05a"
         }
     ],
@@ -37,7 +37,7 @@
     [
         "JSON",
         {
-            "size": 46069,
+            "size": 46796,
             "color": "#292929"
         }
     ],
@@ -98,17 +98,17 @@
         }
     ],
     [
+        "PowerShell",
+        {
+            "size": 3319,
+            "color": "#012456"
+        }
+    ],
+    [
         "Java",
         {
             "size": 3075,
             "color": "#b07219"
-        }
-    ],
-    [
-        "PowerShell",
-        {
-            "size": 2715,
-            "color": "#012456"
         }
     ],
     [
@@ -163,7 +163,7 @@
     [
         "Batchfile",
         {
-            "size": 855,
+            "size": 906,
             "color": "#C1F12E"
         }
     ],
@@ -261,7 +261,7 @@
     [
         "Regular Expression",
         {
-            "size": 11,
+            "size": 20,
             "color": "#009a00"
         }
     ]
