@@ -163,7 +163,7 @@
     [
         "Batchfile",
         {
-            "size": 906,
+            "size": 965,
             "color": "#C1F12E"
         }
     ],
@@ -249,6 +249,13 @@
         {
             "size": 440,
             "color": "#701516"
+        }
+    ],
+    [
+        "Assembly",
+        {
+            "size": 218,
+            "color": "#6E4C13"
         }
     ],
     [
