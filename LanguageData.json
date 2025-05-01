@@ -9,7 +9,7 @@
     [
         "JavaScript",
         {
-            "size": 168782,
+            "size": 170974,
             "color": "#f1e05a"
         }
     ],
@@ -37,7 +37,7 @@
     [
         "JSON",
         {
-            "size": 46796,
+            "size": 46820,
             "color": "#292929"
         }
     ],
@@ -91,17 +91,17 @@
         }
     ],
     [
-        "YAML",
-        {
-            "size": 3777,
-            "color": "#cb171e"
-        }
-    ],
-    [
         "PowerShell",
         {
             "size": 3319,
             "color": "#012456"
+        }
+    ],
+    [
+        "YAML",
+        {
+            "size": 3278,
+            "color": "#cb171e"
         }
     ],
     [
