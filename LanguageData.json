@@ -9,7 +9,7 @@
     [
         "JavaScript",
         {
-            "size": 170974,
+            "size": 172607,
             "color": "#f1e05a"
         }
     ],
@@ -133,10 +133,24 @@
         }
     ],
     [
+        "Batchfile",
+        {
+            "size": 1853,
+            "color": "#C1F12E"
+        }
+    ],
+    [
         "Q#",
         {
             "size": 1564,
             "color": "#fed659"
+        }
+    ],
+    [
+        "GraphQL",
+        {
+            "size": 1349,
+            "color": "#e10098"
         }
     ],
     [
@@ -158,13 +172,6 @@
         {
             "size": 974,
             "color": "#3A4E3A"
-        }
-    ],
-    [
-        "Batchfile",
-        {
-            "size": 965,
-            "color": "#C1F12E"
         }
     ],
     [
@@ -200,13 +207,6 @@
         {
             "size": 672,
             "color": "#555555"
-        }
-    ],
-    [
-        "GraphQL",
-        {
-            "size": 672,
-            "color": "#e10098"
         }
     ],
     [
@@ -263,6 +263,13 @@
         {
             "size": 117,
             "color": "#9EEDFF"
+        }
+    ],
+    [
+        "Awk",
+        {
+            "size": 108,
+            "color": "#c30e9b"
         }
     ],
     [
