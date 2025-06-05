@@ -9,35 +9,35 @@
     [
         "JavaScript",
         {
-            "size": 176706,
+            "size": 182429,
             "color": "#f1e05a"
         }
     ],
     [
         "HTML",
         {
-            "size": 124512,
+            "size": 124575,
             "color": "#e34c26"
         }
     ],
     [
         "Visual Basic .NET",
         {
-            "size": 93232,
+            "size": 93359,
             "color": "#945db7"
         }
     ],
     [
         "CSS",
         {
-            "size": 49984,
+            "size": 50608,
             "color": "#663399"
         }
     ],
     [
         "JSON",
         {
-            "size": 47857,
+            "size": 47905,
             "color": "#292929"
         }
     ],
@@ -121,7 +121,7 @@
     [
         "Batchfile",
         {
-            "size": 2273,
+            "size": 2309,
             "color": "#C1F12E"
         }
     ],
@@ -280,6 +280,13 @@
         }
     ],
     [
+        "Handlebars",
+        {
+            "size": 24,
+            "color": "#f7931e"
+        }
+    ],
+    [
         "Regular Expression",
         {
             "size": 20,
@@ -291,13 +298,6 @@
         {
             "size": 13,
             "color": "#64b970"
-        }
-    ],
-    [
-        "Handlebars",
-        {
-            "size": 10,
-            "color": "#f7931e"
         }
     ]
 ]
