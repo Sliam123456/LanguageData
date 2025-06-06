@@ -23,7 +23,7 @@
     [
         "Visual Basic .NET",
         {
-            "size": 93359,
+            "size": 92369,
             "color": "#945db7"
         }
     ],
@@ -154,17 +154,17 @@
         }
     ],
     [
+        "Text",
+        {
+            "size": 1323,
+            "color": null
+        }
+    ],
+    [
         "AL",
         {
             "size": 1060,
             "color": "#3AA2B5"
-        }
-    ],
-    [
-        "Text",
-        {
-            "size": 1011,
-            "color": null
         }
     ],
     [
