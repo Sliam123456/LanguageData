@@ -121,7 +121,7 @@
     [
         "Batchfile",
         {
-            "size": 2309,
+            "size": 2788,
             "color": "#C1F12E"
         }
     ],
@@ -140,6 +140,13 @@
         }
     ],
     [
+        "Text",
+        {
+            "size": 1592,
+            "color": null
+        }
+    ],
+    [
         "Q#",
         {
             "size": 1564,
@@ -151,13 +158,6 @@
         {
             "size": 1351,
             "color": "#e10098"
-        }
-    ],
-    [
-        "Text",
-        {
-            "size": 1323,
-            "color": null
         }
     ],
     [
@@ -252,17 +252,17 @@
         }
     ],
     [
+        "Awk",
+        {
+            "size": 232,
+            "color": "#c30e9b"
+        }
+    ],
+    [
         "Assembly",
         {
             "size": 218,
             "color": "#6E4C13"
-        }
-    ],
-    [
-        "Awk",
-        {
-            "size": 162,
-            "color": "#c30e9b"
         }
     ],
     [
@@ -280,17 +280,17 @@
         }
     ],
     [
+        "Regular Expression",
+        {
+            "size": 32,
+            "color": "#009a00"
+        }
+    ],
+    [
         "Handlebars",
         {
             "size": 24,
             "color": "#f7931e"
-        }
-    ],
-    [
-        "Regular Expression",
-        {
-            "size": 20,
-            "color": "#009a00"
         }
     ],
     [
