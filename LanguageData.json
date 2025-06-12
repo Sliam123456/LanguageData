@@ -23,7 +23,7 @@
     [
         "Visual Basic .NET",
         {
-            "size": 92369,
+            "size": 93232,
             "color": "#945db7"
         }
     ],
@@ -112,17 +112,17 @@
         }
     ],
     [
+        "Batchfile",
+        {
+            "size": 3084,
+            "color": "#C1F12E"
+        }
+    ],
+    [
         "Java",
         {
             "size": 3075,
             "color": "#b07219"
-        }
-    ],
-    [
-        "Batchfile",
-        {
-            "size": 3058,
-            "color": "#C1F12E"
         }
     ],
     [
