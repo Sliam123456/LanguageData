@@ -245,6 +245,13 @@
         }
     ],
     [
+        "HolyC",
+        {
+            "size": 572,
+            "color": "#ffefaf"
+        }
+    ],
+    [
         "Lua",
         {
             "size": 494,
