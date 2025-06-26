@@ -9,7 +9,7 @@
     [
         "JavaScript",
         {
-            "size": 184921,
+            "size": 185683,
             "color": "#f1e05a"
         }
     ],
@@ -277,6 +277,13 @@
         {
             "size": 405,
             "color": "#005C9C"
+        }
+    ],
+    [
+        "iCalendar",
+        {
+            "size": 224,
+            "color": "#ec564c"
         }
     ],
     [
