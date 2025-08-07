@@ -2,7 +2,7 @@
     [
         "C#",
         {
-            "size": 461931,
+            "size": 463798,
             "color": "#178600"
         }
     ],
@@ -308,17 +308,17 @@
         }
     ],
     [
+        "Regular Expression",
+        {
+            "size": 113,
+            "color": "#009a00"
+        }
+    ],
+    [
         "Shell",
         {
             "size": 96,
             "color": "#89e051"
-        }
-    ],
-    [
-        "Regular Expression",
-        {
-            "size": 86,
-            "color": "#009a00"
         }
     ],
     [
