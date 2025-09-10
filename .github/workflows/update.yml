@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
   - cron: "0 0 * * *"
+permissions:
+  contents: write
 jobs:
   update-data:
     name: Update Data
@@ -11,11 +13,11 @@ jobs:
     timeout-minutes: 3
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     - name: Setup Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v5
       with:
-        node-version: 22
+        node-version: 24
         check-latest: true
     - name: Download Data
       run: node . ${{ secrets.PAT }}
@@ -27,7 +29,7 @@ jobs:
           git push
       continue-on-error: true
     - name: Trigger Workflows
-      uses: actions/github-script@v7
+      uses: actions/github-script@v8
       with:
         github-token: ${{ secrets.PAT }}
         script: |

@@ -1,6 +1,6 @@
-{
+query ($cursor: String) {
   user(login: "Sliam123456") {
-    repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
+    repositories(ownerAffiliations: OWNER, isFork: false, first: 100, after: $cursor) {
       nodes {
         languages(first: 100) {
           edges {
@@ -11,6 +11,10 @@
             }
           }
         }
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
       }
     }
   }
