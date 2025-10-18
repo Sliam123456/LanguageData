@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 470767,
+        "size": 472840,
         "color": "#178600"
     },
     "JavaScript": {
@@ -19,6 +19,10 @@
         "size": 51162,
         "color": "#663399"
     },
+    "Dart": {
+        "size": 39542,
+        "color": "#00B4AB"
+    },
     "Processing": {
         "size": 38029,
         "color": "#0096D8"
@@ -26,10 +30,6 @@
     "XML": {
         "size": 33482,
         "color": "#0060ac"
-    },
-    "Dart": {
-        "size": 29776,
-        "color": "#00B4AB"
     },
     "JSON": {
         "size": 19490,
@@ -72,7 +72,7 @@
         "color": "#012456"
     },
     "Batchfile": {
-        "size": 3187,
+        "size": 3252,
         "color": "#C1F12E"
     },
     "Java": {
@@ -115,6 +115,10 @@
         "size": 946,
         "color": "#555555"
     },
+    "Kotlin": {
+        "size": 852,
+        "color": "#A97BFF"
+    },
     "Haskell": {
         "size": 842,
         "color": "#5e5086"
@@ -122,10 +126,6 @@
     "Rust": {
         "size": 821,
         "color": "#dea584"
-    },
-    "Kotlin": {
-        "size": 723,
-        "color": "#A97BFF"
     },
     "Go": {
         "size": 665,
