@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 473684,
+        "size": 470767,
         "color": "#178600"
     },
     "JavaScript": {
@@ -15,13 +15,13 @@
         "size": 93232,
         "color": "#945db7"
     },
+    "Dart": {
+        "size": 51515,
+        "color": "#00B4AB"
+    },
     "CSS": {
         "size": 51162,
         "color": "#663399"
-    },
-    "Dart": {
-        "size": 43066,
-        "color": "#00B4AB"
     },
     "Processing": {
         "size": 38029,
