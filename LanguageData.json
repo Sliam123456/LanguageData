@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 52231,
+        "size": 54447,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -47,13 +47,13 @@
         "size": 7456,
         "color": "#3572A5"
     },
+    "VBA": {
+        "size": 6518,
+        "color": "#867db1"
+    },
     "TSQL": {
         "size": 4914,
         "color": "#e38c00"
-    },
-    "VBA": {
-        "size": 4234,
-        "color": "#867db1"
     },
     "YAML": {
         "size": 4086,
@@ -75,6 +75,10 @@
         "size": 3252,
         "color": "#C1F12E"
     },
+    "SVG": {
+        "size": 3155,
+        "color": "#ff9900"
+    },
     "Java": {
         "size": 3075,
         "color": "#b07219"
@@ -82,10 +86,6 @@
     "F#": {
         "size": 2088,
         "color": "#b845fc"
-    },
-    "SVG": {
-        "size": 2044,
-        "color": "#ff9900"
     },
     "Awk": {
         "size": 1828,
@@ -167,6 +167,10 @@
         "size": 218,
         "color": "#6E4C13"
     },
+    "Regular Expression": {
+        "size": 205,
+        "color": "#009a00"
+    },
     "CodeQL": {
         "size": 159,
         "color": "#140f46"
@@ -174,10 +178,6 @@
     "J": {
         "size": 117,
         "color": "#9EEDFF"
-    },
-    "Regular Expression": {
-        "size": 113,
-        "color": "#009a00"
     },
     "Shell": {
         "size": 96,
