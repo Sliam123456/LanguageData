@@ -48,7 +48,7 @@
         "color": "#3572A5"
     },
     "VBA": {
-        "size": 6518,
+        "size": 6600,
         "color": "#867db1"
     },
     "TSQL": {
@@ -163,13 +163,13 @@
         "size": 224,
         "color": "#ec564c"
     },
+    "Regular Expression": {
+        "size": 218,
+        "color": "#009a00"
+    },
     "Assembly": {
         "size": 218,
         "color": "#6E4C13"
-    },
-    "Regular Expression": {
-        "size": 205,
-        "color": "#009a00"
     },
     "CodeQL": {
         "size": 159,
