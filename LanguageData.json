@@ -43,13 +43,13 @@
         "size": 12742,
         "color": "#f34b7d"
     },
+    "VBA": {
+        "size": 9196,
+        "color": "#867db1"
+    },
     "Python": {
         "size": 7456,
         "color": "#3572A5"
-    },
-    "VBA": {
-        "size": 6600,
-        "color": "#867db1"
     },
     "TSQL": {
         "size": 4914,
@@ -159,13 +159,13 @@
         "size": 405,
         "color": "#005C9C"
     },
+    "Regular Expression": {
+        "size": 342,
+        "color": "#009a00"
+    },
     "iCalendar": {
         "size": 224,
         "color": "#ec564c"
-    },
-    "Regular Expression": {
-        "size": 218,
-        "color": "#009a00"
     },
     "Assembly": {
         "size": 218,
