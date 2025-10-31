@@ -143,6 +143,10 @@
         "size": 572,
         "color": "#ffefaf"
     },
+    "Lean": {
+        "size": 537,
+        "color": null
+    },
     "Lua": {
         "size": 494,
         "color": "#000080"
