@@ -143,10 +143,6 @@
         "size": 572,
         "color": "#ffefaf"
     },
-    "Lean": {
-        "size": 537,
-        "color": null
-    },
     "Lua": {
         "size": 494,
         "color": "#000080"
@@ -166,6 +162,14 @@
     "Regular Expression": {
         "size": 342,
         "color": "#009a00"
+    },
+    "Isabelle": {
+        "size": 285,
+        "color": "#FEFE00"
+    },
+    "Lean": {
+        "size": 243,
+        "color": null
     },
     "iCalendar": {
         "size": 224,
