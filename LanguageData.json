@@ -1,10 +1,10 @@
 {
     "C#": {
-        "size": 474911,
+        "size": 474902,
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 186555,
+        "size": 186568,
         "color": "#f1e05a"
     },
     "HTML": {
@@ -12,11 +12,11 @@
         "color": "#e34c26"
     },
     "Visual Basic .NET": {
-        "size": 93232,
+        "size": 93237,
         "color": "#945db7"
     },
     "Dart": {
-        "size": 55896,
+        "size": 55917,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -31,6 +31,10 @@
         "size": 33482,
         "color": "#0060ac"
     },
+    "Python": {
+        "size": 23214,
+        "color": "#3572A5"
+    },
     "JSON": {
         "size": 19490,
         "color": "#292929"
@@ -40,16 +44,12 @@
         "color": "#355570"
     },
     "C++": {
-        "size": 12742,
+        "size": 12687,
         "color": "#f34b7d"
     },
     "VBA": {
         "size": 9196,
         "color": "#867db1"
-    },
-    "Python": {
-        "size": 7722,
-        "color": "#3572A5"
     },
     "TSQL": {
         "size": 4914,
@@ -60,31 +60,31 @@
         "color": "#cb171e"
     },
     "TypeScript": {
-        "size": 4047,
+        "size": 4058,
         "color": "#3178c6"
     },
     "PLpgSQL": {
         "size": 3884,
         "color": "#336790"
     },
+    "Batchfile": {
+        "size": 3396,
+        "color": "#C1F12E"
+    },
     "PowerShell": {
         "size": 3319,
         "color": "#012456"
-    },
-    "Batchfile": {
-        "size": 3252,
-        "color": "#C1F12E"
     },
     "SVG": {
         "size": 3155,
         "color": "#ff9900"
     },
     "Java": {
-        "size": 3075,
+        "size": 3112,
         "color": "#b07219"
     },
     "F#": {
-        "size": 2088,
+        "size": 2092,
         "color": "#b845fc"
     },
     "Awk": {
@@ -111,24 +111,28 @@
         "size": 974,
         "color": "#3A4E3A"
     },
+    "Zig": {
+        "size": 914,
+        "color": "#ec915c"
+    },
     "C": {
-        "size": 946,
+        "size": 911,
         "color": "#555555"
     },
     "Kotlin": {
-        "size": 852,
+        "size": 859,
         "color": "#A97BFF"
     },
     "Haskell": {
-        "size": 842,
+        "size": 853,
         "color": "#5e5086"
     },
     "Rust": {
-        "size": 821,
+        "size": 824,
         "color": "#dea584"
     },
     "Go": {
-        "size": 665,
+        "size": 647,
         "color": "#00ADD8"
     },
     "Markdown": {
@@ -143,33 +147,49 @@
         "size": 572,
         "color": "#ffefaf"
     },
+    "Perl": {
+        "size": 528,
+        "color": "#0298c3"
+    },
+    "Nim": {
+        "size": 527,
+        "color": "#ffc200"
+    },
     "Lua": {
-        "size": 494,
+        "size": 523,
         "color": "#000080"
     },
+    "Groovy": {
+        "size": 522,
+        "color": "#4298b8"
+    },
     "Ruby": {
-        "size": 491,
+        "size": 497,
         "color": "#701516"
     },
     "Julia": {
-        "size": 445,
+        "size": 479,
         "color": "#a270ba"
     },
     "HTTP": {
         "size": 405,
         "color": "#005C9C"
     },
+    "Lean": {
+        "size": 368,
+        "color": null
+    },
     "Regular Expression": {
         "size": 342,
         "color": "#009a00"
     },
-    "Isabelle": {
-        "size": 285,
-        "color": "#FEFE00"
+    "Rocq Prover": {
+        "size": 336,
+        "color": "#d0b68c"
     },
-    "Lean": {
-        "size": 243,
-        "color": null
+    "Isabelle": {
+        "size": 298,
+        "color": "#FEFE00"
     },
     "iCalendar": {
         "size": 224,
