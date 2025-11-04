@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 55917,
+        "size": 57457,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -24,7 +24,7 @@
         "color": "#663399"
     },
     "Processing": {
-        "size": 38937,
+        "size": 40390,
         "color": "#0096D8"
     },
     "XML": {
@@ -107,6 +107,10 @@
         "size": 1060,
         "color": "#3AA2B5"
     },
+    "Kotlin": {
+        "size": 984,
+        "color": "#A97BFF"
+    },
     "Cuda": {
         "size": 974,
         "color": "#3A4E3A"
@@ -118,10 +122,6 @@
     "C": {
         "size": 911,
         "color": "#555555"
-    },
-    "Kotlin": {
-        "size": 859,
-        "color": "#A97BFF"
     },
     "Haskell": {
         "size": 853,
