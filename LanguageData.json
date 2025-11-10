@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 60249,
+        "size": 60250,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -36,7 +36,7 @@
         "color": "#3572A5"
     },
     "JSON": {
-        "size": 19490,
+        "size": 20305,
         "color": "#292929"
     },
     "GDScript": {
@@ -60,7 +60,7 @@
         "color": "#cb171e"
     },
     "TypeScript": {
-        "size": 4058,
+        "size": 4057,
         "color": "#3178c6"
     },
     "PLpgSQL": {
@@ -115,25 +115,33 @@
         "size": 974,
         "color": "#3A4E3A"
     },
+    "Haskell": {
+        "size": 964,
+        "color": "#5e5086"
+    },
     "Zig": {
-        "size": 914,
+        "size": 920,
         "color": "#ec915c"
     },
     "C": {
         "size": 911,
         "color": "#555555"
     },
-    "Haskell": {
-        "size": 853,
-        "color": "#5e5086"
-    },
     "Rust": {
         "size": 824,
         "color": "#dea584"
     },
+    "Ada": {
+        "size": 820,
+        "color": "#02f88c"
+    },
     "Go": {
         "size": 647,
         "color": "#00ADD8"
+    },
+    "Clojure": {
+        "size": 619,
+        "color": "#db5855"
     },
     "Markdown": {
         "size": 607,
@@ -146,6 +154,10 @@
     "HolyC": {
         "size": 572,
         "color": "#ffefaf"
+    },
+    "Swift": {
+        "size": 546,
+        "color": "#F05138"
     },
     "Perl": {
         "size": 528,
@@ -166,6 +178,10 @@
     "Ruby": {
         "size": 497,
         "color": "#701516"
+    },
+    "MATLAB": {
+        "size": 496,
+        "color": "#e16737"
     },
     "Julia": {
         "size": 479,
