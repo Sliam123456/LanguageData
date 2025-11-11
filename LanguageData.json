@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 474902,
+        "size": 475605,
         "color": "#178600"
     },
     "JavaScript": {
@@ -68,7 +68,7 @@
         "color": "#336790"
     },
     "Batchfile": {
-        "size": 3396,
+        "size": 3462,
         "color": "#C1F12E"
     },
     "PowerShell": {
@@ -195,6 +195,10 @@
         "size": 405,
         "color": "#005C9C"
     },
+    "Dockerfile": {
+        "size": 397,
+        "color": "#384d54"
+    },
     "Lean": {
         "size": 368,
         "color": null
@@ -206,6 +210,10 @@
     "Isabelle": {
         "size": 298,
         "color": "#FEFE00"
+    },
+    "Shell": {
+        "size": 235,
+        "color": "#89e051"
     },
     "iCalendar": {
         "size": 224,
@@ -222,10 +230,6 @@
     "J": {
         "size": 117,
         "color": "#9EEDFF"
-    },
-    "Shell": {
-        "size": 96,
-        "color": "#89e051"
     },
     "Handlebars": {
         "size": 24,
