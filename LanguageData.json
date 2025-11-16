@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 60250,
+        "size": 65863,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -83,6 +83,10 @@
         "size": 3112,
         "color": "#b07219"
     },
+    "Kotlin": {
+        "size": 2263,
+        "color": "#A97BFF"
+    },
     "F#": {
         "size": 2092,
         "color": "#b845fc"
@@ -106,10 +110,6 @@
     "AL": {
         "size": 1060,
         "color": "#3AA2B5"
-    },
-    "Kotlin": {
-        "size": 984,
-        "color": "#A97BFF"
     },
     "Cuda": {
         "size": 974,
