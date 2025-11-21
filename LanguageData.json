@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 475605,
+        "size": 477901,
         "color": "#178600"
     },
     "JavaScript": {
@@ -63,17 +63,21 @@
         "size": 4057,
         "color": "#3178c6"
     },
+    "PowerShell": {
+        "size": 4053,
+        "color": "#012456"
+    },
     "PLpgSQL": {
         "size": 3884,
         "color": "#336790"
     },
-    "Batchfile": {
-        "size": 3462,
-        "color": "#C1F12E"
+    "Shell": {
+        "size": 3639,
+        "color": "#89e051"
     },
-    "PowerShell": {
-        "size": 3319,
-        "color": "#012456"
+    "Batchfile": {
+        "size": 3503,
+        "color": "#C1F12E"
     },
     "SVG": {
         "size": 3155,
@@ -90,6 +94,10 @@
     "F#": {
         "size": 2092,
         "color": "#b845fc"
+    },
+    "Dockerfile": {
+        "size": 2019,
+        "color": "#384d54"
     },
     "Awk": {
         "size": 1828,
@@ -195,10 +203,6 @@
         "size": 405,
         "color": "#005C9C"
     },
-    "Dockerfile": {
-        "size": 397,
-        "color": "#384d54"
-    },
     "Lean": {
         "size": 368,
         "color": null
@@ -210,10 +214,6 @@
     "Isabelle": {
         "size": 298,
         "color": "#FEFE00"
-    },
-    "Shell": {
-        "size": 235,
-        "color": "#89e051"
     },
     "iCalendar": {
         "size": 224,
