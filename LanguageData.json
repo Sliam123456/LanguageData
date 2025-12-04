@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 483853,
+        "size": 484113,
         "color": "#178600"
     },
     "JavaScript": {
@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 84257,
+        "size": 84577,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -222,6 +222,14 @@
     "Assembly": {
         "size": 218,
         "color": "#6E4C13"
+    },
+    "Windows Registry Entries": {
+        "size": 198,
+        "color": "#52d5ff"
+    },
+    "AutoIt": {
+        "size": 161,
+        "color": "#1C3552"
     },
     "CodeQL": {
         "size": 159,
