@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 84577,
+        "size": 86994,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -79,6 +79,10 @@
         "size": 3510,
         "color": "#C1F12E"
     },
+    "Kotlin": {
+        "size": 3399,
+        "color": "#A97BFF"
+    },
     "SVG": {
         "size": 3155,
         "color": "#ff9900"
@@ -86,10 +90,6 @@
     "Java": {
         "size": 3112,
         "color": "#b07219"
-    },
-    "Kotlin": {
-        "size": 2283,
-        "color": "#A97BFF"
     },
     "F#": {
         "size": 2092,
