@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 484113,
+        "size": 488131,
         "color": "#178600"
     },
     "JavaScript": {
@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 89433,
+        "size": 91504,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -39,13 +39,13 @@
         "size": 20305,
         "color": "#292929"
     },
+    "C++": {
+        "size": 16132,
+        "color": "#f34b7d"
+    },
     "GDScript": {
         "size": 14419,
         "color": "#355570"
-    },
-    "C++": {
-        "size": 12687,
-        "color": "#f34b7d"
     },
     "VBA": {
         "size": 9426,
