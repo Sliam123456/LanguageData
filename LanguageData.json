@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 91504,
+        "size": 91638,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -35,13 +35,13 @@
         "size": 23214,
         "color": "#3572A5"
     },
+    "C++": {
+        "size": 20678,
+        "color": "#f34b7d"
+    },
     "JSON": {
         "size": 20305,
         "color": "#292929"
-    },
-    "C++": {
-        "size": 16132,
-        "color": "#f34b7d"
     },
     "GDScript": {
         "size": 14419,
@@ -76,7 +76,7 @@
         "color": "#89e051"
     },
     "Batchfile": {
-        "size": 3510,
+        "size": 3514,
         "color": "#C1F12E"
     },
     "Kotlin": {
