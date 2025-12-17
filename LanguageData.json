@@ -51,6 +51,10 @@
         "size": 9426,
         "color": "#867db1"
     },
+    "TeX": {
+        "size": 5052,
+        "color": "#3D6117"
+    },
     "TSQL": {
         "size": 4914,
         "color": "#e38c00"
@@ -71,13 +75,13 @@
         "size": 3884,
         "color": "#336790"
     },
+    "Batchfile": {
+        "size": 3796,
+        "color": "#C1F12E"
+    },
     "Shell": {
         "size": 3639,
         "color": "#89e051"
-    },
-    "Batchfile": {
-        "size": 3514,
-        "color": "#C1F12E"
     },
     "Kotlin": {
         "size": 3379,
@@ -154,10 +158,6 @@
     "Markdown": {
         "size": 607,
         "color": "#083fa1"
-    },
-    "TeX": {
-        "size": 606,
-        "color": "#3D6117"
     },
     "HolyC": {
         "size": 572,
