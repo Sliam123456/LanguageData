@@ -4,7 +4,7 @@
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 188444,
+        "size": 191297,
         "color": "#f1e05a"
     },
     "HTML": {
@@ -59,6 +59,10 @@
         "size": 4914,
         "color": "#e38c00"
     },
+    "Batchfile": {
+        "size": 4246,
+        "color": "#C1F12E"
+    },
     "YAML": {
         "size": 4086,
         "color": "#cb171e"
@@ -74,10 +78,6 @@
     "PLpgSQL": {
         "size": 3884,
         "color": "#336790"
-    },
-    "Batchfile": {
-        "size": 3796,
-        "color": "#C1F12E"
     },
     "Shell": {
         "size": 3639,
@@ -95,6 +95,10 @@
         "size": 3112,
         "color": "#b07219"
     },
+    "GraphQL": {
+        "size": 2539,
+        "color": "#e10098"
+    },
     "F#": {
         "size": 2092,
         "color": "#b845fc"
@@ -104,7 +108,7 @@
         "color": "#384d54"
     },
     "Awk": {
-        "size": 1828,
+        "size": 1990,
         "color": "#c30e9b"
     },
     "Text": {
@@ -114,10 +118,6 @@
     "Q#": {
         "size": 1564,
         "color": "#fed659"
-    },
-    "GraphQL": {
-        "size": 1454,
-        "color": "#e10098"
     },
     "AL": {
         "size": 1060,
@@ -239,12 +239,12 @@
         "size": 117,
         "color": "#9EEDFF"
     },
+    "sed": {
+        "size": 26,
+        "color": "#64b970"
+    },
     "Handlebars": {
         "size": 24,
         "color": "#f7931e"
-    },
-    "sed": {
-        "size": 13,
-        "color": "#64b970"
     }
 }
