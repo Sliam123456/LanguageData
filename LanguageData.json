@@ -4,7 +4,7 @@
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 191297,
+        "size": 193129,
         "color": "#f1e05a"
     },
     "HTML": {
@@ -20,7 +20,7 @@
         "color": "#00B4AB"
     },
     "CSS": {
-        "size": 51162,
+        "size": 51457,
         "color": "#663399"
     },
     "Processing": {
@@ -60,7 +60,7 @@
         "color": "#e38c00"
     },
     "Batchfile": {
-        "size": 4246,
+        "size": 4270,
         "color": "#C1F12E"
     },
     "YAML": {
@@ -96,7 +96,7 @@
         "color": "#b07219"
     },
     "GraphQL": {
-        "size": 2539,
+        "size": 2571,
         "color": "#e10098"
     },
     "F#": {
