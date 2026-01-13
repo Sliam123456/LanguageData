@@ -4,7 +4,7 @@
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 193129,
+        "size": 197379,
         "color": "#f1e05a"
     },
     "HTML": {
@@ -20,7 +20,7 @@
         "color": "#00B4AB"
     },
     "CSS": {
-        "size": 51457,
+        "size": 51742,
         "color": "#663399"
     },
     "Processing": {
@@ -48,7 +48,7 @@
         "color": "#355570"
     },
     "VBA": {
-        "size": 9426,
+        "size": 9622,
         "color": "#867db1"
     },
     "TeX": {
@@ -87,6 +87,10 @@
         "size": 3379,
         "color": "#A97BFF"
     },
+    "GraphQL": {
+        "size": 3187,
+        "color": "#e10098"
+    },
     "SVG": {
         "size": 3155,
         "color": "#ff9900"
@@ -94,10 +98,6 @@
     "Java": {
         "size": 3112,
         "color": "#b07219"
-    },
-    "GraphQL": {
-        "size": 2571,
-        "color": "#e10098"
     },
     "F#": {
         "size": 2092,
@@ -183,6 +183,10 @@
         "size": 522,
         "color": "#4298b8"
     },
+    "Regular Expression": {
+        "size": 501,
+        "color": "#009a00"
+    },
     "Ruby": {
         "size": 497,
         "color": "#701516"
@@ -194,10 +198,6 @@
     "Julia": {
         "size": 479,
         "color": "#a270ba"
-    },
-    "Regular Expression": {
-        "size": 426,
-        "color": "#009a00"
     },
     "HTTP": {
         "size": 405,
