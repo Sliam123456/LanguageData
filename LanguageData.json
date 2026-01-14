@@ -4,7 +4,7 @@
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 197379,
+        "size": 207215,
         "color": "#f1e05a"
     },
     "HTML": {
@@ -20,7 +20,7 @@
         "color": "#00B4AB"
     },
     "CSS": {
-        "size": 51742,
+        "size": 51920,
         "color": "#663399"
     },
     "Processing": {
@@ -36,11 +36,11 @@
         "color": "#3572A5"
     },
     "C++": {
-        "size": 20678,
+        "size": 23206,
         "color": "#f34b7d"
     },
     "JSON": {
-        "size": 20305,
+        "size": 20355,
         "color": "#292929"
     },
     "GDScript": {
@@ -60,7 +60,7 @@
         "color": "#e38c00"
     },
     "Batchfile": {
-        "size": 4270,
+        "size": 4341,
         "color": "#C1F12E"
     },
     "YAML": {
@@ -98,6 +98,10 @@
     "Java": {
         "size": 3112,
         "color": "#b07219"
+    },
+    "Rust": {
+        "size": 2527,
+        "color": "#dea584"
     },
     "F#": {
         "size": 2092,
@@ -138,10 +142,6 @@
     "C": {
         "size": 911,
         "color": "#555555"
-    },
-    "Rust": {
-        "size": 824,
-        "color": "#dea584"
     },
     "Ada": {
         "size": 820,
@@ -238,6 +238,10 @@
     "J": {
         "size": 117,
         "color": "#9EEDFF"
+    },
+    "TOML": {
+        "size": 44,
+        "color": "#9c4221"
     },
     "sed": {
         "size": 26,
