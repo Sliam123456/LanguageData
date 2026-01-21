@@ -59,6 +59,10 @@
         "size": 4914,
         "color": "#e38c00"
     },
+    "Rust": {
+        "size": 4772,
+        "color": "#dea584"
+    },
     "Batchfile": {
         "size": 4341,
         "color": "#C1F12E"
@@ -98,10 +102,6 @@
     "Java": {
         "size": 3112,
         "color": "#b07219"
-    },
-    "Rust": {
-        "size": 2527,
-        "color": "#dea584"
     },
     "F#": {
         "size": 2092,
