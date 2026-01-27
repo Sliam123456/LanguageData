@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 542090,
+        "size": 541529,
         "color": "#178600"
     },
     "JavaScript": {
@@ -71,6 +71,10 @@
         "size": 4086,
         "color": "#cb171e"
     },
+    "SVG": {
+        "size": 4076,
+        "color": "#ff9900"
+    },
     "TypeScript": {
         "size": 4057,
         "color": "#3178c6"
@@ -94,10 +98,6 @@
     "GraphQL": {
         "size": 3187,
         "color": "#e10098"
-    },
-    "SVG": {
-        "size": 3155,
-        "color": "#ff9900"
     },
     "Java": {
         "size": 3112,
