@@ -1,6 +1,6 @@
 {
     "C#": {
-        "size": 541529,
+        "size": 547682,
         "color": "#178600"
     },
     "JavaScript": {
@@ -51,6 +51,10 @@
         "size": 9622,
         "color": "#867db1"
     },
+    "SVG": {
+        "size": 6363,
+        "color": "#ff9900"
+    },
     "TeX": {
         "size": 5052,
         "color": "#3D6117"
@@ -70,10 +74,6 @@
     "YAML": {
         "size": 4086,
         "color": "#cb171e"
-    },
-    "SVG": {
-        "size": 4076,
-        "color": "#ff9900"
     },
     "TypeScript": {
         "size": 4057,
