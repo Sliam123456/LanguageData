@@ -63,13 +63,21 @@
         "size": 4914,
         "color": "#e38c00"
     },
+    "Batchfile": {
+        "size": 4851,
+        "color": "#C1F12E"
+    },
     "Rust": {
         "size": 4772,
         "color": "#dea584"
     },
-    "Batchfile": {
-        "size": 4341,
-        "color": "#C1F12E"
+    "Awk": {
+        "size": 4351,
+        "color": "#c30e9b"
+    },
+    "PowerShell": {
+        "size": 4120,
+        "color": "#012456"
     },
     "YAML": {
         "size": 4086,
@@ -78,10 +86,6 @@
     "TypeScript": {
         "size": 4057,
         "color": "#3178c6"
-    },
-    "PowerShell": {
-        "size": 4053,
-        "color": "#012456"
     },
     "PLpgSQL": {
         "size": 3884,
@@ -110,10 +114,6 @@
     "Dockerfile": {
         "size": 2019,
         "color": "#384d54"
-    },
-    "Awk": {
-        "size": 1990,
-        "color": "#c30e9b"
     },
     "Text": {
         "size": 1617,
