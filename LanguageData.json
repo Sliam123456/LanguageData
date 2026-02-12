@@ -16,7 +16,7 @@
         "color": "#945db7"
     },
     "Dart": {
-        "size": 91638,
+        "size": 92210,
         "color": "#00B4AB"
     },
     "CSS": {
@@ -31,13 +31,13 @@
         "size": 34211,
         "color": "#0060ac"
     },
+    "C++": {
+        "size": 23255,
+        "color": "#f34b7d"
+    },
     "Python": {
         "size": 23214,
         "color": "#3572A5"
-    },
-    "C++": {
-        "size": 23206,
-        "color": "#f34b7d"
     },
     "JSON": {
         "size": 20355,
