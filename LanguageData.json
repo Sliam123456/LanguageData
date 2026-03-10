@@ -28,7 +28,7 @@
         "color": "#0096D8"
     },
     "C++": {
-        "size": 35124,
+        "size": 35219,
         "color": "#f34b7d"
     },
     "XML": {
@@ -63,13 +63,13 @@
         "size": 5052,
         "color": "#3D6117"
     },
+    "Batchfile": {
+        "size": 4931,
+        "color": "#C1F12E"
+    },
     "TSQL": {
         "size": 4914,
         "color": "#e38c00"
-    },
-    "Batchfile": {
-        "size": 4859,
-        "color": "#C1F12E"
     },
     "Rust": {
         "size": 4772,
@@ -234,6 +234,10 @@
     "CodeQL": {
         "size": 159,
         "color": "#140f46"
+    },
+    "CMake": {
+        "size": 123,
+        "color": "#DA3434"
     },
     "J": {
         "size": 117,
