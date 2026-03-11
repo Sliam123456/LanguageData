@@ -51,6 +51,10 @@
         "size": 14083,
         "color": "#A97BFF"
     },
+    "C": {
+        "size": 13558,
+        "color": "#555555"
+    },
     "VBA": {
         "size": 9622,
         "color": "#867db1"
@@ -59,13 +63,13 @@
         "size": 6363,
         "color": "#ff9900"
     },
+    "Batchfile": {
+        "size": 5093,
+        "color": "#C1F12E"
+    },
     "TeX": {
         "size": 5052,
         "color": "#3D6117"
-    },
-    "Batchfile": {
-        "size": 4931,
-        "color": "#C1F12E"
     },
     "TSQL": {
         "size": 4914,
@@ -127,6 +131,10 @@
         "size": 1060,
         "color": "#3AA2B5"
     },
+    "GLSL": {
+        "size": 1041,
+        "color": "#5686a5"
+    },
     "Cuda": {
         "size": 974,
         "color": "#3A4E3A"
@@ -138,10 +146,6 @@
     "Zig": {
         "size": 920,
         "color": "#ec915c"
-    },
-    "C": {
-        "size": 911,
-        "color": "#555555"
     },
     "Ada": {
         "size": 820,
@@ -158,6 +162,10 @@
     "Markdown": {
         "size": 607,
         "color": "#083fa1"
+    },
+    "CMake": {
+        "size": 577,
+        "color": "#DA3434"
     },
     "HolyC": {
         "size": 572,
@@ -234,10 +242,6 @@
     "CodeQL": {
         "size": 159,
         "color": "#140f46"
-    },
-    "CMake": {
-        "size": 123,
-        "color": "#DA3434"
     },
     "J": {
         "size": 117,
