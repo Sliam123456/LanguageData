@@ -4,7 +4,7 @@
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 209911,
+        "size": 219918,
         "color": "#f1e05a"
     },
     "HTML": {
@@ -40,7 +40,7 @@
         "color": "#3572A5"
     },
     "JSON": {
-        "size": 20355,
+        "size": 20375,
         "color": "#292929"
     },
     "GDScript": {
@@ -55,6 +55,10 @@
         "size": 13558,
         "color": "#555555"
     },
+    "TSQL": {
+        "size": 10613,
+        "color": "#e38c00"
+    },
     "VBA": {
         "size": 9622,
         "color": "#867db1"
@@ -63,17 +67,13 @@
         "size": 6363,
         "color": "#ff9900"
     },
+    "TeX": {
+        "size": 5224,
+        "color": "#3D6117"
+    },
     "Batchfile": {
         "size": 5093,
         "color": "#C1F12E"
-    },
-    "TeX": {
-        "size": 5052,
-        "color": "#3D6117"
-    },
-    "TSQL": {
-        "size": 4914,
-        "color": "#e38c00"
     },
     "Rust": {
         "size": 4772,
@@ -95,10 +95,6 @@
         "size": 4057,
         "color": "#3178c6"
     },
-    "PLpgSQL": {
-        "size": 3884,
-        "color": "#336790"
-    },
     "Shell": {
         "size": 3639,
         "color": "#89e051"
@@ -118,6 +114,10 @@
     "Dockerfile": {
         "size": 2019,
         "color": "#384d54"
+    },
+    "PLpgSQL": {
+        "size": 1704,
+        "color": "#336790"
     },
     "Text": {
         "size": 1617,
@@ -150,6 +150,10 @@
     "Ada": {
         "size": 820,
         "color": "#02f88c"
+    },
+    "Tcl": {
+        "size": 734,
+        "color": "#e4cc98"
     },
     "Go": {
         "size": 647,
@@ -192,7 +196,7 @@
         "color": "#4298b8"
     },
     "Regular Expression": {
-        "size": 501,
+        "size": 519,
         "color": "#009a00"
     },
     "Ruby": {
@@ -246,6 +250,10 @@
     "J": {
         "size": 117,
         "color": "#9EEDFF"
+    },
+    "SQL": {
+        "size": 116,
+        "color": "#e38c00"
     },
     "TOML": {
         "size": 44,
