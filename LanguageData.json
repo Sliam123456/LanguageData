@@ -43,6 +43,10 @@
         "size": 20375,
         "color": "#292929"
     },
+    "C": {
+        "size": 16630,
+        "color": "#555555"
+    },
     "GDScript": {
         "size": 14419,
         "color": "#355570"
@@ -50,10 +54,6 @@
     "Kotlin": {
         "size": 14083,
         "color": "#A97BFF"
-    },
-    "C": {
-        "size": 13558,
-        "color": "#555555"
     },
     "TSQL": {
         "size": 10613,
@@ -76,7 +76,7 @@
         "color": "#3D6117"
     },
     "Batchfile": {
-        "size": 5111,
+        "size": 5190,
         "color": "#C1F12E"
     },
     "Rust": {
@@ -111,6 +111,10 @@
         "size": 3112,
         "color": "#b07219"
     },
+    "Cuda": {
+        "size": 2316,
+        "color": "#3A4E3A"
+    },
     "F#": {
         "size": 2092,
         "color": "#b845fc"
@@ -135,9 +139,9 @@
         "size": 1060,
         "color": "#3AA2B5"
     },
-    "Cuda": {
-        "size": 974,
-        "color": "#3A4E3A"
+    "CMake": {
+        "size": 996,
+        "color": "#DA3434"
     },
     "Haskell": {
         "size": 964,
@@ -166,10 +170,6 @@
     "Markdown": {
         "size": 607,
         "color": "#083fa1"
-    },
-    "CMake": {
-        "size": 577,
-        "color": "#DA3434"
     },
     "HolyC": {
         "size": 572,
