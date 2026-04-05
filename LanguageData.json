@@ -44,7 +44,7 @@
         "color": "#292929"
     },
     "C": {
-        "size": 16630,
+        "size": 16827,
         "color": "#555555"
     },
     "GDScript": {
@@ -103,6 +103,10 @@
         "size": 3639,
         "color": "#89e051"
     },
+    "Cuda": {
+        "size": 3266,
+        "color": "#3A4E3A"
+    },
     "GraphQL": {
         "size": 3187,
         "color": "#e10098"
@@ -110,10 +114,6 @@
     "Java": {
         "size": 3112,
         "color": "#b07219"
-    },
-    "Cuda": {
-        "size": 2316,
-        "color": "#3A4E3A"
     },
     "F#": {
         "size": 2092,
