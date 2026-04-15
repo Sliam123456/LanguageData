@@ -4,11 +4,11 @@
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 228261,
+        "size": 234443,
         "color": "#f1e05a"
     },
     "HTML": {
-        "size": 125610,
+        "size": 126301,
         "color": "#e34c26"
     },
     "Dart": {
@@ -20,7 +20,7 @@
         "color": "#945db7"
     },
     "CSS": {
-        "size": 52108,
+        "size": 53036,
         "color": "#663399"
     },
     "Processing": {
@@ -40,7 +40,7 @@
         "color": "#3572A5"
     },
     "JSON": {
-        "size": 20375,
+        "size": 20404,
         "color": "#292929"
     },
     "C": {
@@ -68,7 +68,7 @@
         "color": "#ff9900"
     },
     "GLSL": {
-        "size": 5488,
+        "size": 5719,
         "color": "#5686a5"
     },
     "TeX": {
