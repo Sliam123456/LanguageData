@@ -39,13 +39,13 @@
         "size": 23214,
         "color": "#3572A5"
     },
+    "C": {
+        "size": 20521,
+        "color": "#555555"
+    },
     "JSON": {
         "size": 20404,
         "color": "#292929"
-    },
-    "C": {
-        "size": 16966,
-        "color": "#555555"
     },
     "GDScript": {
         "size": 14419,
@@ -67,17 +67,21 @@
         "size": 6363,
         "color": "#ff9900"
     },
+    "Cuda": {
+        "size": 6238,
+        "color": "#3A4E3A"
+    },
     "GLSL": {
         "size": 5719,
         "color": "#5686a5"
     },
+    "Batchfile": {
+        "size": 5262,
+        "color": "#C1F12E"
+    },
     "TeX": {
         "size": 5224,
         "color": "#3D6117"
-    },
-    "Batchfile": {
-        "size": 5190,
-        "color": "#C1F12E"
     },
     "Rust": {
         "size": 4772,
@@ -102,10 +106,6 @@
     "Shell": {
         "size": 3639,
         "color": "#89e051"
-    },
-    "Cuda": {
-        "size": 3349,
-        "color": "#3A4E3A"
     },
     "GraphQL": {
         "size": 3187,
@@ -135,13 +135,13 @@
         "size": 1564,
         "color": "#fed659"
     },
+    "CMake": {
+        "size": 1390,
+        "color": "#DA3434"
+    },
     "AL": {
         "size": 1060,
         "color": "#3AA2B5"
-    },
-    "CMake": {
-        "size": 996,
-        "color": "#DA3434"
     },
     "Haskell": {
         "size": 964,
