@@ -40,7 +40,7 @@
         "color": "#3572A5"
     },
     "C": {
-        "size": 20521,
+        "size": 21067,
         "color": "#555555"
     },
     "JSON": {
@@ -63,20 +63,20 @@
         "size": 9622,
         "color": "#867db1"
     },
+    "Cuda": {
+        "size": 6526,
+        "color": "#3A4E3A"
+    },
     "SVG": {
         "size": 6363,
         "color": "#ff9900"
     },
-    "Cuda": {
-        "size": 6238,
-        "color": "#3A4E3A"
-    },
     "GLSL": {
-        "size": 5719,
+        "size": 5769,
         "color": "#5686a5"
     },
     "Batchfile": {
-        "size": 5262,
+        "size": 5340,
         "color": "#C1F12E"
     },
     "TeX": {
@@ -115,6 +115,10 @@
         "size": 3112,
         "color": "#b07219"
     },
+    "CMake": {
+        "size": 2952,
+        "color": "#DA3434"
+    },
     "F#": {
         "size": 2092,
         "color": "#b845fc"
@@ -134,10 +138,6 @@
     "Q#": {
         "size": 1564,
         "color": "#fed659"
-    },
-    "CMake": {
-        "size": 1390,
-        "color": "#DA3434"
     },
     "AL": {
         "size": 1060,
