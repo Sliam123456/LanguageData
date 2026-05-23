@@ -1,14 +1,14 @@
 {
     "C#": {
-        "size": 552153,
+        "size": 558276,
         "color": "#178600"
     },
     "JavaScript": {
-        "size": 234967,
+        "size": 242466,
         "color": "#f1e05a"
     },
     "HTML": {
-        "size": 126301,
+        "size": 126812,
         "color": "#e34c26"
     },
     "Dart": {
@@ -20,7 +20,7 @@
         "color": "#945db7"
     },
     "CSS": {
-        "size": 53280,
+        "size": 54407,
         "color": "#663399"
     },
     "Processing": {
@@ -32,7 +32,7 @@
         "color": "#f34b7d"
     },
     "XML": {
-        "size": 34211,
+        "size": 34843,
         "color": "#0060ac"
     },
     "C": {
@@ -76,7 +76,7 @@
         "color": "#ff9900"
     },
     "Batchfile": {
-        "size": 5408,
+        "size": 5513,
         "color": "#C1F12E"
     },
     "TeX": {
@@ -166,6 +166,10 @@
     "Assembly": {
         "size": 645,
         "color": "#6E4C13"
+    },
+    "D": {
+        "size": 623,
+        "color": "#ba595e"
     },
     "Clojure": {
         "size": 619,
